@@ -2,7 +2,7 @@ title: Devil's Icebox Blog
 author: Cheryl Hughey
 email: Cheryl@CherylHughey.com
 description: > # this means to ignore newlines until "twitter_username:"
-  This is a no frills blog for the musings of a writer and web developer.
+  This is a no frills blog for the musings of a writer and web developer that is built with Jekyll.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
