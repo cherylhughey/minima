@@ -13,8 +13,10 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: cherylhughey
-    github:  cherylhughey
+    twitter: https://twitter.com/cherylhughey
+    github:  https://github.com/cherylhughey
+    linkedin:  https://www.linkedin.com/in/cherylhughey/
+    youtube:  https://www.youtube.com/cherylhughey
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
