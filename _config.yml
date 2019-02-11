@@ -4,7 +4,7 @@ email: Cheryl@CherylHughey.com
 description: > # this means to ignore newlines until "twitter_username:"
   This is the placing for the musings of a writer and web developer.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -14,9 +14,9 @@ minima:
   # generate social links in footer
   social_links:
     twitter: cherylhughey
-    github:  cherylhughey
-    linkedin:  cherylhughey
-    youtube:  cherylhughey
+    github: cherylhughey
+    linkedin: cherylhughey
+    youtube: cherylhughey
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
