@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Leaflet, Javascript and GeoJSON"
-categories: misc
+title: "Leaflet and GeoJSON"
+categories: learning
 ---
 
 I started a <a href="https://github.com/cherylhughey/leaflet-storymap">new adventure </a>experimenting with multiple map plot points using Leaflet, Javascript, HTML and GeoJSON. It is based on some older open source code that I found. The Javascript scroll bar is being a bit stubborn. I suspect that the older code may have some bugs or integrations that needs to be corrected. However, I was pleased on how easy it was to convert a .csv file to .geojson using  <a href="http://geojson.io/#map=2/20.0/0.0">geojson.io</a>. I'd recommend the site for anyone looking to work with this type of file.
