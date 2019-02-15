@@ -10,9 +10,9 @@ The way I study may be a bit unconventional to coding purists. I learn by recrea
 
 The major disadvantage to my method is that not all code is accurate or viable. There have been times that I've gotten really excited about a project, but was unable to make it work due to bugs or incompatibility issues that weren't my cup of tea. The older the Github repository, the more likely you are to encounter problems. Why? Software upgrades can cause issues. For example the most current version of Ruby when I last checked didn't support all Gems. (Gems are the glorious libraries that make solving problems with Ruby magical.)
 
-In other cases, an author or team may simply abandon a project with issues. Thus, I learned very recently with a forked <a href="https://cherylhughey.github.io/leaflet-storymap">Leaflet Journeymap</a> repository that I need to read the "issues" page and test the project before diving in. My result in this case was a Leaflet map with some minor scrolling issues that is only good for desktop usage. However, I loved the challenge of it and feel more confident with Leaflet, Javascript and CSS. So, I'm thankful the author left it up. Why? It forced me to analyze the code at much higher level than I would have done otherwise. There is a famous saying I can't remember that encouraged coders to break things. And, so I did ... a few times.
+In other cases, an author or team may simply abandon a project with issues. Thus, I learned very recently with a forked <a href="https://cherylhughey.github.io/leaflet-storymap">Leaflet Journeymap</a> repository that I need to read the "issues" page and test the project before diving in. My result in this case was a Leaflet map with some minor scrolling issues that is only good for desktop usage. However, I loved the challenge of it and feel more confident with Leaflet, Javascript and CSS. So, I'm thankful the author left it up. Why? It forced me to analyze the code at much higher level than I would have done otherwise. There is a famous saying I can't remember that encouraged coders to break things, which I did ... a few times.
 
 The lesson: Destruction and reconstruction are awesome teachers.
 
 
-Updated 2/14/2019 7:59 p.m.
+Updated 2/14/2019 7:59 & 8:05 p.m.
