@@ -15,4 +15,4 @@ Enjoy. Cheryl
 
 <a href = "http://www.cherylhughey.com">More about me.</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4KRt1WcABHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="225" src="https://www.youtube.com/embed/4KRt1WcABHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
