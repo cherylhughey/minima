@@ -1,6 +1,8 @@
-Home Internet of Things (IoT) Security for Everyone
-
-by Cheryl Hughey (www.cherylhughey.com)
+---
+layout: post
+title: "Home Internet of Things (IoT) Security for Everyone"
+categories: learning
+---
 
 Securing your home Internet is essential in our Internet of Things (IoT) world. The devices you use every day could be leaving an open door to hackers. If you don't believe you’re at risk, think again. Do you own a smart TV? Do you use a voice activated appliance like Amazon Echo? We all use these things and may even believe “it can’t happen to me.” Let's review a few short tips that may help protect your privacy and your wallet.
 
@@ -23,3 +25,5 @@ Securing your home Internet is essential in our Internet of Things (IoT) world. 
 - Once you have an inventory of what electronic devices are connecting to the Internet in your home, consider decommissioning anything that you can no longer update. If a product is no longer supported, it can be easier to hack. While you may really love that old security camera from 10 years ago, is it really worth risking your privacy? Ditch it and find something that protects your family without leaving a critical backdoor open to hackers.
 
 Follow these tips and you’ll have a great start to protecting the digital things you love in your home.
+
+Copyright 2021 Cheryl Hughey
