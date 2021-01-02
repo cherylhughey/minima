@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Home Internet of Things (IoT) Security for Everyone"
+title: "Home Internet Security"
 categories: learning
 ---
 
