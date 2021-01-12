@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="https://cherylhughey.github.io/img/cheryl.jpg">
 
 ## My developer journey
 
