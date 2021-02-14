@@ -15,3 +15,5 @@ It is also important to protect your password from physical theft or shoulder su
 Another excellent security precaution is to change your passwords regularly. For example, if you have been using the same password for the past year in every online account you use, you are potentially increasing the likelihood of an online hack of your system. Why? Hackers love to break into large company systems like your favorite retailer, steal users information and sell it on the dark web. If you have used the same password on several highly known retail sites, you are putting the security of your credit card and personal information at risk. If one system is compromised, a negative actor could use stolen passwords to hack several other systems at once. The more information they steal, the more vulnerable you will be. A good habit is to rotate your passwords at least every 60 days and do not use the same password across all websites that you use.
 
 These are just a few password tips to help keep your information safe. Stay tuned for more basic security tips.
+
+Copyright 2021 Cheryl Hughey (www.cherylhughey.com)
