@@ -4,7 +4,7 @@ title: "Secure Passwords 101"
 categories: learning
 ---
 
-Secure Passwords 101
+#Secure Passwords 101
 
 What is one of the most basics things that you can do to protect the confidentiality, integrity and availability of your information system? Creating a password that is hard to hack is your first step in properly configuring a secure system. This blog article will teach you the basics of creating a secure password and help you protect your personal information.
 
