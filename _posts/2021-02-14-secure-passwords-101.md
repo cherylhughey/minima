@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Secure Passwords 101"
+categories: learning
+---
+
 What is one of the most basics things that you can do to protect the confidentiality, integrity and availability of your information system? Creating a password that is hard to hack is your first step in properly configuring a secure system. This blog article will teach you the basics of creating a secure password and help you protect your personal information.
 
 Let’s start by defining what is not a secure password. A secure password is something that is simple to guess. It should not be your birth date, pet’s name, child’s name, anniversary or any date that could be easily identified to your profile.  Using a password of a common succession of numbers or letters is also not a good idea. As an example, using “1234567” or “abcdefg” is not a good idea. If you think adding the word “password” as a password, it is also not a good idea. Thus, do not use “password1234” or just “password” as your password. If you do, you may be living the door unlocked to your credit card numbers or personal information that could be used to steal your identity.
