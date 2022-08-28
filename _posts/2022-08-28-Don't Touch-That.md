@@ -4,7 +4,7 @@ title: "Don't Touch That"
 categories: learning
 ---
 
-We live in a world where everything is online. From our personal cellphone to social media accounts, we share a lot of personal data without thinking about it. From an innocent review of your favorite restaurant to your credit card details, there may be pieces of you all around the Internet. This also means your data may be scattered around the world and regularly at risk. What can you do to protect yourself? This article will give you a few simple tips to beef up your Internet Safety defensives.
+We live in a world where everything is online. From our personal cellphone to social media accounts, we share a lot of personal data without thinking about it. From an innocent review of your favorite restaurant to your credit card details, there may be pieces of you all around the Internet. This also means your data may be scattered around the world and regularly at risk. What can you do to protect yourself? This article will give you a scenario to get you to thinking before you touch.
 
 Let's present a scenario. You are walking in the park and come across a set of keys with a thumb drive attached to it. You remember the time you lost your own keys at the local mall and never got them back. Paying for the locksmith to let you in was expensive. Thus, you begin pondering if this particular set of keys belongs to someone that needs to get into their house. Your desire to return the keys intensifies, as you do not want anyone else to have to pay to get their door open.
 
